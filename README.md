@@ -1,4 +1,4 @@
 grails-wmd
 ==========
 
-WHYSIWYG Markdown editor wrapper for grails.
+WHYSIWYG Markdown editor wrapped for grails.
