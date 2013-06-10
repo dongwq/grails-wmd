@@ -10,7 +10,6 @@
 
     <r:layoutResources/>
     <jq:jquery>
-        <script type="text/javascript">
             setup_wmd({
                 input: "notes",
                 button_bar: "notes-button-bar",
@@ -18,7 +17,6 @@
                 output: "copy_html"  ,
                 helpLink: "${request.contextPath}/wmd/markdownhelp.html"
             });
-        </script>
     </jq:jquery>
 
 </head>

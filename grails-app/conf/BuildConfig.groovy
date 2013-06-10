@@ -21,6 +21,7 @@ grails.project.dependency.resolution = {
             export = false
         }
 
+        runtime ":jquery:1.8.3"
         runtime ":resources:1.1.6"
     }
 }
