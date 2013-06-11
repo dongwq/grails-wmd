@@ -1,4 +1,4 @@
-class GrailsWmdGrailsPlugin {
+class WmdGrailsPlugin {
     def version = "0.1"
     def grailsVersion = "2.0 > *"
 
@@ -10,7 +10,7 @@ WYSIWYG Markdown editor wrapped for grails.
 See more https://github.com/dongwq/grails-wmd
 '''
 
-    def documentation = "http://grails.org/plugin/grails-wmd"
+    def documentation = "http://grails.org/plugin/wmd"
 
     def license = "APACHE"
     def issueManagement = [ system: "GitHub", url: "https://github.com/dongwq/grails-wmd/issues" ]
