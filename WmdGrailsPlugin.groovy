@@ -10,7 +10,7 @@ WYSIWYG Markdown editor wrapped for grails.
 See more https://github.com/dongwq/grails-wmd
 '''
 
-    def documentation = "http://grails.org/plugin/wmd"
+    def documentation = "https://github.com/dongwq/grails-wmd"
 
     def license = "APACHE"
     def issueManagement = [ system: "GitHub", url: "https://github.com/dongwq/grails-wmd/issues" ]
